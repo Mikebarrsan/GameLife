@@ -65,6 +65,9 @@ def juego(status):
 recibe: status
 Esta función evalúa el estado aleatorio generado anteriormente y de acuerdo a las reglas de el juego de la vida,
 genera una matriz diferente y por ende muestra en pantalla una rejilla acorde a las reglas.
+
+AÚN EN DESAROLLO
+
 """
     for i in range (1):
         creac_rejilla(pantalla)
