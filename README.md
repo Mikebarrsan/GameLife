@@ -18,7 +18,7 @@ los prerrequisitos son solo para Windows.
 Prerrequisitos (Windows):
 - Instalar python:
     - Descargar la versión más reciente en el sitio oficial de python: https://www.python.org/downloads/
--Instalar pip (extensión de pygame para instalar librerías)
+- Instalar pip (extensión de pygame para instalar librerías)
     - De acuerdo a la versión de su python, descargue los siguientes enlaces como archivos en su pc (moverlo en donde tiene el programa):
         - Instalador: instalador get-pip.py
         - Python 3.2: get-pip.py
