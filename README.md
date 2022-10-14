@@ -5,7 +5,7 @@ Este programa simula las 3 reglas que estableció John Conway:
 - Nacimiento: si una célula muerta está rodeada por exactamente 3 células vivas, esta nacerá.
 - Supervivencia: si una célula viva está rodeada por 2 o 3 células vivas, esta sobrevive..
 - Muerte: si una célula viva tiene menos de 2 o más de 3 células vecinas vivas, esta muere. 
-*Asimismo, el juego de la vida es un programa increíble que puede ser comparado con procesos físicos, biológicos e incluso sociales, etc... aparte de ser muy atractivo visualmente. 
+**Asimismo, el juego de la vida es un programa increíble que puede ser comparado con procesos físicos, biológicos e incluso sociales, etc... aparte de ser muy atractivo visualmente. 
 Este programa tiene varias reglas definidas que demostrarán los comportamientos peculiares de las "células" de John Conway, como resultado se puede esperar que la población: 
 - Se estabilice: todas las células vivas se queden quietas
 - Se extinga: todas la células mueran
