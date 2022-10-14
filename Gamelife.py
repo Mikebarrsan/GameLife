@@ -1,6 +1,6 @@
 #Juego de la vida Mikebarrsan 23/08/22
 """
-#Gamelife
+#GAMELIFE
 Contexto:
 El juego de la vida de John Conway es un programa que se conoce como autómata celular, tiene varias "células" que consisten en varias casillas en una rejilla que están vivas o muertas
 dependiendo si están "rellenas" o no, así como el número de vecinos vivos/muertos que tengan.
